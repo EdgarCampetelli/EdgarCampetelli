@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/EdgarCameptelli/EdgarCameptelli/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=EdgarCameptelli&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/EdgarCameptelli/EdgarCameptelli/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/EdgarCampetelli/EdgarCampetelli/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=EdgarCampetelli&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/EdgarCampetelli/EdgarCampetelli/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -54,9 +54,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdgarCameptelli/EdgarCameptelli/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdgarCameptelli/EdgarCameptelli/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EdgarCameptelli/EdgarCameptelli/pacman-output/galaga-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EdgarCampetelli/EdgarCampetelli/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdgarCampetelli/EdgarCampetelli/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EdgarCampetelli/EdgarCampetelli/pacman-output/galaga-contribution-graph.svg">
 </picture>
 
 ###
