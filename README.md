@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/EdgarCampetelli/EdgarCampetelli/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=EdgarCampetelli&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/EdgarCampetelli/EdgarCampetelli/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -58,14 +57,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EdgarCampetelli/EdgarCampetelli/pacman-output/galaga-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EdgarCampetelli/EdgarCampetelli/pacman-output/galaga-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Edgar Campetelli">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Edgar%20Campetelli&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
