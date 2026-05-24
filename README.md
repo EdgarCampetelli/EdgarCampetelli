@@ -2,10 +2,10 @@
 
 ###
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/EdgarCampetelli/EdgarCampetelli/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=EdgarCampetelli&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div> -->
+</div>
 
 ###
 
