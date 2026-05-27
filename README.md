@@ -1,4 +1,4 @@
-<h2 align="left">Desenvolvedor Java Backend | Spring Boot • SQL • Docker</h2>
+<h2 align="left">Opa galera, sou Edgar e meu foco é me tornar um Desenvolvedor Java Backend • Spring Boot • SQL • Docker • Angular </h2>
 
 ###
 
